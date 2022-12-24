@@ -4,6 +4,10 @@ Pink Trombone exhibit by [Neil Thapen](venuspatrol.nfshost.com)
 Bare-handed procedural speech synthesis.
 [Original version](https://dood.al/pinktrombone/)
 
+https://www.imaginary.org/program/pink-trombone
+
+https://imaginary.github.io/pink-trombone/
+
 ## Bibliography (provided by author)
 
 Julius O. Smith III, "Physical audio signal processing for virtual musical instruments and audio effects."

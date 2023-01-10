@@ -118,9 +118,6 @@ var UI = {
 		}
 		UI.handleTouches();
 
-		if (!UI.aboutButton.switchedOn) {
-			UI.inInstructionsScreen = true;
-		}
 	},
 
 	startMouse: function (event) {
@@ -164,8 +161,6 @@ var UI = {
 		touch.alive = false;
 		touch.endTime = time;
 		UI.handleTouches();
-
-		if (!UI.aboutButton.switchedOn) UI.inInstructionsScreen = true;
 	},
 
 	handleTouches: function (event) {
